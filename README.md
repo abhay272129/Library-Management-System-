@@ -8,4 +8,4 @@ Hence in the existing system for LIBRARY MANAGEMENT SYSTEM, the performance eval
 The few of the working images of the project and database is described below:
 
 
-![](Screenshot (10).png)
+![](nbproject/Screenshot (10) - Copy.png)
