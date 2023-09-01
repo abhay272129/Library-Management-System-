@@ -14,10 +14,7 @@ import javax.swing.JOptionPane;
 //import javax.swing.table.TableModel;
 //import java.sql.PreparedStatement;
 //import javax.swing.JOptionPane;
-/**
- *
- * @author kumar mritunjay
- */
+
 public class ReturnBook extends javax.swing.JFrame {
 
     /**

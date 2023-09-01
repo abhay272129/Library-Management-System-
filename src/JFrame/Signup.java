@@ -12,10 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author kumar mritunjay
- */
+/
 public class Signup extends javax.swing.JFrame {
 
     /**
